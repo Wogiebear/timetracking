@@ -48,8 +48,6 @@ Pre-defined Field Values
 * s/w development [sd] / meeting [m]
 * s/w development [sd] / testing [t]
 * s/w development [sd] / maintenance or bug-fixing [b]
-
-
 * biz development [bd] / meeting [m]
 * biz development [bd] / proposal development [p]
 
